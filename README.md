@@ -110,6 +110,7 @@ This application is a JavaFX-based banking system that provides separate functio
 
 - **JavaFX**: For building the graphical user interface.
 - **Java**: Backend logic and functionality.
+- **Database**: SQLite for the database.
 - **IntelliJ IDEA**: Development environment.
 
 ---
