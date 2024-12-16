@@ -117,7 +117,8 @@ This application is a JavaFX-based banking system that provides separate functio
 
 ## Screenshots
 
-*Add screenshots of the application in action to showcase its features.*
+### Login Menu
+![Login Menu](Screenshots/LoginClient.png)
 
 ---
 
