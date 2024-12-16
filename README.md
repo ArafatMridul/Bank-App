@@ -162,7 +162,7 @@ This application is a JavaFX-based banking system that provides separate functio
 ![Database Admin](Screenshots/DB_admin.png)
 
 ### DataBase Clients
-![Database Clients](Screenshots/DB_Clients.png)
+![Database Clients](Screenshots/DB_clients.png)
 
 ### DataBase Savings Account
 ![Database Savings Account](Screenshots/DB_sa.png)
