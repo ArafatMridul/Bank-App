@@ -115,16 +115,63 @@ This application is a JavaFX-based banking system that provides separate functio
 
 ---
 
-## Screenshots
+## SCREENSHOTS
 
-### Login Menu
-![Login Menu](Screenshots/LoginClient.png)
+## Client Section
 
----
+### Client Login Menu
+![Client Login Menu](Screenshots/LoginClient.png)
 
-## License
+### Client Credentials
+![Login Creed](Screenshots/ClientCred.png)
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+### Client Dashboard
+![Client Dashboard Menu](Screenshots/ClientDashboard.png)
+
+### Client Transactions
+![Client Transactions Menu](Screenshots/ClientTransactions.png)
+
+### Client Accounts
+![Client Accounts Menu](Screenshots/ClientAccounts.png)
+
+### Client Profile
+![Client Profile Menu](Screenshots/ClientProfile.png)
+
+
+## Admin Section
+
+### Admin Login Menu
+![Admin Login Menu](Screenshots/AdminLogin.png)
+
+### Admin Create Client Menu
+![Admin Create Client Menu](Screenshots/CreateClient.png)
+
+### Admin Clients Menu
+![Admin Clients Menu](Screenshots/AllClients.png)
+
+### Admin Desposit Menu
+![Admin Deposit Menu](Screenshots/deposit.png)
+
+
+## Database format
+
+### DataBase
+![Database](Screenshots/DB.png)
+
+### DataBase Admin
+![Database Admin](Screenshots/DB_admin.png)
+
+### DataBase Clients
+![Database Clients](Screenshots/DB_Clients.png)
+
+### DataBase Savings Account
+![Database Savings Account](Screenshots/DB_sa.png)
+
+### DataBase Checking Account
+![Database CheckingAccount](Screenshots/DB_ch.png)
+
+### DataBase Transactions
+![Database Transactions](Screenshots/DB_transactions.png)
 
 ---
 
