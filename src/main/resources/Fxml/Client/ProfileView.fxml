@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="750.0" prefWidth="850.0" styleClass="profile_container"
+            stylesheets="@../../Styles/ProfileView.css" xmlns="http://javafx.com/javafx/23.0.1"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.gothamcitybank.Controllers.Client.ProfileViewController">
+   <VBox layoutX="188.0" layoutY="14.0" prefHeight="850.0" prefWidth="500.0" styleClass="h_container"
+         AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="170.0" AnchorPane.rightAnchor="170.0"
+         AnchorPane.topAnchor="100.0">
+      <HBox prefHeight="50.0" prefWidth="50.0" styleClass="info">
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="First Name : "/>
+         <Text fx:id="fName_lbl" strokeType="OUTSIDE" strokeWidth="0.0" text="Name"/>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="10.0" prefHeight="50.0" prefWidth="50.0" styleClass="info">
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Last Name : "/>
+         <Text fx:id="lName_lbl" strokeType="OUTSIDE" strokeWidth="0.0" text="Name"/>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="60.0" prefHeight="50.0" prefWidth="50.0" styleClass="info">
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Account Number : "/>
+         <Text fx:id="acc_num" strokeType="OUTSIDE" strokeWidth="0.0" text="AC"/>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="110.0" prefHeight="50.0" prefWidth="50.0" styleClass="info">
+         <Text strokeType="OUTSIDE" strokeWidth="0.0" text="Date of creation : "/>
+         <Text fx:id="creation_date" strokeType="OUTSIDE" strokeWidth="0.0" text="Date"/>
+      </HBox>
+      <HBox layoutX="10.0" layoutY="160.0" prefHeight="50.0" prefWidth="50.0"/>
+   </VBox>
+   <Text fx:id="profile_name" layoutX="385.0" layoutY="69.0" strokeType="OUTSIDE" strokeWidth="0.0"
+         text="Account Profile" AnchorPane.topAnchor="40.0"/>
+</AnchorPane>

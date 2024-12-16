@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="MazeBank:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8ccaa0e9-28aa-46f5-9b62-5cc01712d7f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/Admin.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/AdminMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/ClientCell.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/Clients.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/CreateClient.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Admin/Deposit.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/Accounts.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/Client.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/ClientMenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/Dashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/ProfileView.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/TransactionCell.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Client/Transactions.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Fxml/Login.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/Accounts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/ClientCell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/ClientMenu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/Clients.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/CreateClient.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/Dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/Deposit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/ProfileView.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/TransactionCell.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/Transactions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Styles/login.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/target/classes/com/example/mazebank/Controllers/Admin/CreateClientController.class" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2plevGNCLw2yhedTm1uD9bBG9fq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/GothamCityBank/GothamCityBank&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\MazeBank\MazeBank\src\main\resources\Images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.example.gothamcitybank.App" />
+      <module name="GothamCityBank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ccaa0e9-28aa-46f5-9b62-5cc01712d7f1" name="Changes" comment="" />
+      <created>1733345318696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733345318696</updated>
+      <workItem from="1733345319721" duration="11643000" />
+      <workItem from="1733379749764" duration="20413000" />
+      <workItem from="1733417368165" duration="627000" />
+      <workItem from="1733479957487" duration="4426000" />
+      <workItem from="1733485017246" duration="43083000" />
+      <workItem from="1733559409031" duration="1111000" />
+      <workItem from="1733560533917" duration="468000" />
+      <workItem from="1733561384790" duration="590000" />
+      <workItem from="1733584347132" duration="24000" />
+      <workItem from="1733584454291" duration="1238000" />
+      <workItem from="1733585716755" duration="1271000" />
+      <workItem from="1733863254387" duration="562000" />
+      <workItem from="1733863992039" duration="31000" />
+      <workItem from="1733882650472" duration="2271000" />
+      <workItem from="1734206983223" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

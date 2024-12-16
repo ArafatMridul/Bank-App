@@ -1,0 +1,20 @@
+.profile_container {
+    -fx-background-color: #eeeeee;
+}
+
+.profile_container Text {
+    -fx-font-size: 1.6em;
+    -fx-text-fill: #272727;
+}
+
+.h_container {
+    -fx-spacing: 35;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+}
+
+.info {
+    -fx-padding: 10;
+    -fx-spacing: 20;
+    -fx-font-size: 1.6em;
+}
